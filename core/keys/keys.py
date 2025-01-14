@@ -173,6 +173,7 @@ symbol_key_words = {
     "dot": ".",
     "point": ".",
     "quote": "'",
+    "quo": "'",
     "question": "?",
     "apostrophe": "'",
     "L square": "[",
@@ -251,8 +252,12 @@ alternate_keys = {
     "delete": "backspace",
     #'junk': 'backspace',
     "forward delete": "delete",
+    "dale": "delete",
+    "dell": "delete",
     "page up": "pageup",
+    "pigeon": "pageup",
     "page down": "pagedown",
+    "porridge": "pagedown",
 }
 # mac apparently doesn't have the menu key.
 if app.platform in ("windows", "linux"):
