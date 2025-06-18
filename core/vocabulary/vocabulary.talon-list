@@ -1,5 +1,8 @@
 list: user.vocabulary
 -
+corps: core
+Durr: dir
+witch: which
 N map: nmap
 under documented: under-documented
 nmap

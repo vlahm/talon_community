@@ -1,0 +1,16 @@
+list: user.system_paths
+hostname: eohippus
+-
+user: /home/mike
+desktop: /home/mike/Desktop
+desk: /home/mike/Desktop
+documents: /home/mike/Documents
+docks: /home/mike/Documents
+downloads: /home/mike/Downloads
+music: /home/mike/Music
+pictures: /home/mike/Pictures
+videos: /home/mike/Videos
+talon home: /home/mike/.talon
+talon recordings: /home/mike/.talon/recordings
+talon user: /home/mike/.talon/user
+home: /home/mike

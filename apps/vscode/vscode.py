@@ -31,6 +31,8 @@ os: linux
 and app.name: Codium
 os: linux
 and app.name: Cursor
+os: linux
+and app.name: /positron/i
 """
 mod.apps.vscode = r"""
 os: windows
@@ -59,6 +61,7 @@ and app.exe: Cursor.exe
 
 ctx.matches = r"""
 app: vscode
+app: /positron/i
 """
 mac_ctx.matches = r"""
 os: mac
